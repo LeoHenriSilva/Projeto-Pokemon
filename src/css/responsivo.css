@@ -1,7 +1,7 @@
 @media (max-width: 620px) {
     .pokemon-slider {
-        background-color: aqua;
         gap: 10px;
+        
     }
 
     .btn-seta {
