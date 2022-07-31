@@ -88,10 +88,10 @@ body {
 }
 
 .cartao .informacoes {
-    background-color: rgba(179, 177, 185, 0.7);
+    background-color: rgba(185, 177, 177, 0.7);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    display: flex;
+    display: contents;
     align-items: center;
     justify-content: space-between;
     padding: 8px 10px;
@@ -99,11 +99,11 @@ body {
 
 .cartao .informacoes .nome {
     color: #f1ecff;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .cartao .informacoes .vida {
-    background-color: #333;
+    background-color: rgb(167, 17, 17);
     color: #f1ecff;
     padding: 6px 10px;
     border-radius: 20px;
