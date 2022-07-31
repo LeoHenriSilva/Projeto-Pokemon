@@ -1,5 +1,6 @@
 body {
-    font-family: 'outfit', sans-serif; 
+    font-family: 'outfit', sans-serif;
+
     background: url(../images/fundo-site.png) no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -27,7 +28,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 80px;
-    margin: 15px;
+    margin: 20px 0;
 }
 
 .lista-pokemons {
@@ -122,13 +123,14 @@ body {
     background: rgba(255, 255, 255, 0.8);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+
 }
 
 .cartao .descricao .titulo {
     background-color: #333;
     color: #f1ecff;
     font-size: 15px;
-    padding: 12px;
+    padding: 18px;
 }
 
 .cartao .descricao .texto {
