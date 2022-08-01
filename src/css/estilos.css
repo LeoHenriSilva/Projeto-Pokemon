@@ -135,7 +135,7 @@ body {
 
 .cartao .descricao .texto {
    font-size: 12px;
-   padding: 8px;
+   padding: 6px;
    text-align: justify;
    max-height: 115px;
    overflow-y: auto;
